@@ -8,3 +8,5 @@ if __name__ == "__main__":
         print("Anda memasukkan angka ", bilangan)
     else:
         print("Masukkan Angka!")
+        
+    print("Terima kasih")
